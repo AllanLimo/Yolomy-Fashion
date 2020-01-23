@@ -426,6 +426,22 @@ fieldset{
   border: groove;
   border-color: #808000;
 }
+.about-section {
+  background-image:url(bg/about.jpg);
+  padding: 70px;
+}
+.about{
+  border-style: solid;
+  border-width: 1px;
+  margin: 0 20%;
+  font-size: 140%;
+  border-color: #967727;
+  background: transparent;
+}
+p.about-title {
+    position: relative;
+    margin-top: -15px;
+}
 
 
 
